@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Libraries installed
+
+### `npm i -D hardhat`
+
+then run `npx hardhat`
+
+### `npm i @openzeppelin/contracts`
+
+Library to install standards used in smart contracts
+
 ## Available Scripts
 
 In the project directory, you can run:
