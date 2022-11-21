@@ -11,6 +11,11 @@ then run `npx hardhat`
 ### `npm i @openzeppelin/contracts`
 
 Library to install standards used in smart contracts
+```
+import '@openzeppelin/contracts/access/Ownable.sol';
+import '@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol';
+import '@openzeppelin/contracts/utils/math/SafeMath.sol';
+```
 
 ## Available Scripts
 
